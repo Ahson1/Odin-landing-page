@@ -1,0 +1,47 @@
+
+
+/*This is the stuff at the top row */
+.tops {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: right;
+    background-color: #1f2937;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+
+}
+
+.header {
+    font-size: 24px;
+    font-size: 48px;
+    font-weight: bolder;
+
+}
+
+.header-links{
+
+    display: flex;
+    align-items: center;
+    justify-items: left;
+    text-decoration: none;
+}
+
+
+/*This area is under the title row */
+.section1 {
+    background-color: #1f2937;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 55px;
+
+
+
+}
+
+
+.title {
+    font-weight: bold;
+    font-size: large;
+}
