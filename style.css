@@ -105,7 +105,7 @@ font-size: 10px;
 
 .box{
     
-    background-color: red;
+    background-color: darkgrey;
     border: 10px;
     border-color: blue;
     padding: 50px 50px 50px 50px;
@@ -115,7 +115,32 @@ font-size: 10px;
 
     background-color: #e5e7eb ;
     padding: 100px;
+    font-size: 36px;
+    font-style: italic;
 
 
+}
+
+
+.section4 {
+
+    background-color: #3882f6;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    margin: 50px;
+
+
+}
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: white;
 
 }
